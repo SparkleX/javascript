@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "client"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "web"
+		}
+	],
+	"settings": {}
+}
